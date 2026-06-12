@@ -1,3 +1,5 @@
+> 🧬 **人物思维 Skill 系列** · 总目录 → [persona-skill](https://github.com/David0936/persona-skill) · 同系列:[关娜西CIC](https://github.com/David0936/cic-skill) / [嗯哼](https://github.com/David0936/enheng-skill) / [不答哥](https://github.com/David0936/budage-skill)
+
 # 嗯哼.skill — EnHeng456 数字副本 v2
 
 ![嗯哼交易心法封面](assets/cover.png)
